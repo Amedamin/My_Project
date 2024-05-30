@@ -8,8 +8,11 @@ The purpose of this page is to provide users with a seamless and enjoyable onlin
 
 ## Setup
 download this in your terminal:
+
 1-pip install Flask
+
 2-pip install pygame
+
 Run the project from the python file
 
 ## How to use
@@ -17,10 +20,15 @@ To get started, download the project files and follow the setup instructions to 
 
 ## Technologies Utilized
 •	Python: The primary programming language for backend functionality and game development.
+
 •	Pygame: Used to create interactive windows.
+
 •	Flask: A lightweight web framework for serving the application.
+
 •	HTML: The standard language for creating web pages.
+
 •	CSS: Used to style the web pages.
+
 •	Bootstrap: A front-end framework for developing responsive, mobile-first websites.
 
 ## Contribution Guidelines
