@@ -31,6 +31,9 @@ To get started, download the project files and follow the setup instructions to 
 
 •	Bootstrap: A front-end framework for developing responsive, mobile-first websites.
 
+## Team Collaboration Experience
+Despite initially planning this project with a team, internet limitations necessitated solo development. Nonetheless, the collaborative planning phase proved invaluable, offering diverse perspectives and a solid foundation. While solo development required overcoming challenges independently, the envisioned team dynamic would have facilitated efficient task division, skill synergy, and mutual support. Moving forward, the project's success underscores the potential for future collaborations, fostering innovation and collective growth.
+
 ## Contribution Guidelines
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request. For significant changes, it’s best to open an issue first to discuss your proposed modifications.
 
