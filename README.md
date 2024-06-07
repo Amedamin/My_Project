@@ -52,6 +52,13 @@ Heartfelt thanks to the creators of Python, Pygame, Flask, and Bootstrap for pro
 ## Licensing
 You are permitted to use, modify and distribute the software as long as you include the original copyright notice.
 
-# Don't forget to give me your comment😉🔥
+## URL
+- My LinkedIn profile
+https://lnkd.in/evVV3A-j
 
+- Project blog article
+https://www.linkedin.com/posts/ahmed-alamin-qryqr-2b3630275-cmaro_all-in-one-project-i-built-this-project-activity-7204949940144390144-cxi9?utm_source=share&utm_medium=member_desktop
+
+
+# Don't forget to give me your comment😉🔥
 ![IMG_8219](https://github.com/Amedamin/My_Project/assets/138765878/dbc6b122-7af0-455f-84ba-2cf6210907c6)
