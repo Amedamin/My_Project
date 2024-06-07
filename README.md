@@ -37,11 +37,18 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 ## Related Projects
 Here are some projects that may be related or provide additional context to the work being done here:
 •	Pygame Projects: Examples and tutorials on how to use Pygame for game development.
-Pygame GitHub Repository
+[Pygame GitHub Repository](https://github.com/pygame/pygame)
 •	Flask Projects: Examples and tutorials for creating web applications using Flask.
-Flask GitHub Repository
+[Flask GitHub Repository](https://github.com/pallets/flask)
 •	Bootstrap Projects: Templates and designs that use Bootstrap to enhance frontend design.
-Bootstrap GitHub Repository
+[Bootstrap GitHub Repository](https://github.com/twbs/bootstrap)
 
 ## Acknowledgements
 Heartfelt thanks to the creators of Python, Pygame, Flask, and Bootstrap for providing the essential tools and libraries.
+
+## Licensing
+This project is licensed under the MIT License, allowing you to use, modify, and distribute the software as long as you include the original copyright notice, and the software is provided “as is” without any warranties.
+
+# Don't forget to give me your comment😉🔥
+
+![IMG_8219](https://github.com/Amedamin/My_Project/assets/138765878/dbc6b122-7af0-455f-84ba-2cf6210907c6)
