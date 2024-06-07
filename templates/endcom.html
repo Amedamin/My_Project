@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- It ensures that all letters are clear, that the browser is running the latest version, and that it controls the page size on various devices and browsers. -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>All in one!</title>
+    <!-- Used to add styling to a webpage by including the Bootstrap framework for general styles, Bootstrap Icons for additional vector icons, and a custom stylesheet for any specific styles unique to the project. -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='All.css')}}">
+    <link rel="icon" type="image/jpg" href="/static/icon.jpg">
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <!-- section to beginning of the page -->
+    <section class="bg-dark p-2 p-lg-0 pt-lg-2 text-center text-sm-start">
+        <div class="container">
+            <div class="d-sm-flex align-items-center justify-content-between">
+                <div>
+                    <h1 class="text-light">Welcom :)</h1>
+                    <p class="text-light">To your page!</p>
+                </div>
+                <img class="p-3" src="{{url_for('static', filename='icon.jpg')}}" width="300"height="300">
+            </div>
+        </div>
+    </section>
+    <!-- section to middle of the page -->
+    <section class="bg-ligh text-light p-3 text-center text-sm-start">
+        <div class="container">
+            <div class="col-md-12 row align-items-center justify-content-center">
+                <div class="col-sm-2 mb-3 mb-sm-0"> <!-- Column for "start" buttons -->
+                    <div class="row">
+                            <a class="btn btn-success btn-lg border" href="/Begin">
+                                <i class="bi bi-skip-start-fill m-0"></i> Begin 
+                            </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- footer -->
+    <footer class="bg-dark mt-auto">
+      <div class="container p-3">
+          <div class="row text-white">
+              <div class="col-md-4 d-flex align-items-center justify-content-start">
+                  <div>
+                    <h4 class="pb-3"><i class="bi bi-github"></i> Hub Link</h4>
+                    <a href="https://github.com/Amedamin" target="_blank" class="text-white p-2">Ahmed_Alamin</a>
+                  </div>
+              </div>
+              <div class="col-md-4 d-flex align-items-center justify-content-center">
+                  <p class="text-danger p-1 lead mb-2">Thanks for your comment <i class="bi bi-balloon-heart"></i></p>
+              </div>
+              <div class="col-md-4 d-flex align-items-center justify-content-end">
+                  <div>
+                    <h4 class="pb-3"><i class="bi bi-envelope"></i> Contact Me</h4>
+                    <p class="lead mb-0">ahmedqryqr@gmail.com</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </footer>
+</body>
+</html>
