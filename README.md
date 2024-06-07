@@ -34,5 +34,14 @@ To get started, download the project files and follow the setup instructions to 
 ## Contribution Guidelines
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request. For significant changes, it’s best to open an issue first to discuss your proposed modifications.
 
+## Related Projects
+Here are some projects that may be related or provide additional context to the work being done here:
+•	Pygame Projects: Examples and tutorials on how to use Pygame for game development.
+Pygame GitHub Repository
+•	Flask Projects: Examples and tutorials for creating web applications using Flask.
+Flask GitHub Repository
+•	Bootstrap Projects: Templates and designs that use Bootstrap to enhance frontend design.
+Bootstrap GitHub Repository
+
 ## Acknowledgements
 Heartfelt thanks to the creators of Python, Pygame, Flask, and Bootstrap for providing the essential tools and libraries.
