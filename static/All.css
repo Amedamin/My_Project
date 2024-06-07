@@ -1,0 +1,18 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    filter: invert(100%);
+}
+
+.carousel-indicators .active {
+    background-color: black; /* Ensure the active indicator is also black */
+    opacity: 1; /* Ensure the active indicator is fully opaque */
+}
+
+.card {
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.bi-github {
+    font-size: 25px; /* Adjust the font size as needed */
+}
