@@ -50,7 +50,7 @@ Here are some projects that may be related or provide additional context to the 
 Heartfelt thanks to the creators of Python, Pygame, Flask, and Bootstrap for providing the essential tools and libraries.
 
 ## Licensing
-This project is licensed under the MIT License, allowing you to use, modify, and distribute the software as long as you include the original copyright notice, and the software is provided “as is” without any warranties.
+You are permitted to use, modify and distribute the software as long as you include the original copyright notice.
 
 # Don't forget to give me your comment😉🔥
 
